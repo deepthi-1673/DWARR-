@@ -1,0 +1,25 @@
+
+
+.pagination span{
+    width:2rem;
+    height:2rem;
+    padding:5px;
+    border-radius:50px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border:1px solid #DBA39A;
+    color:#000;
+    font-size:1.1rem;
+    cursor:pointer;
+    font-weight:700;
+
+
+}
+.active__page{
+    background:#F0997D;
+    color:#fff !important;
+}
+.tour__card{
+    margin-bottom:2rem;
+}
